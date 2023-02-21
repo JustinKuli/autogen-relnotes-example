@@ -1,5 +1,5 @@
 # One
 
-This feture is realy cool!
+This feature is really cool!
 
-It doesnt do much though.
+It doesn't do much though.
